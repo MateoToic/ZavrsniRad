@@ -1,5 +1,7 @@
 Zavrsni Rad
 
+U direktoriju JupyterNotebook nalaze se jupyter notebooks koje sam koristio za generiranje novih csv datoteka.
+
 U direktoriju ProjektR nalazi se sve sto sam napravio na Projektu R (analiza podataka, graficki prikazi i odvajanje povoljnih). Vecinu tih datoteka cu ponovno iskoristiti uz manje promjene (dodavanje fcu tipa).
 
 U direktoriju csvFiles se nalaze datoteke koje sam koristio za odredivanje zona koje se koriste.
