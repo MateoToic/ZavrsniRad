@@ -4,4 +4,4 @@ U direktoriju ProjektR nalazi se sve sto sam napravio na Projektu R (analiza pod
 
 U direktoriju csvFiles se nalaze datoteke koje sam koristio za odredivanje zona koje se koriste.
 
-Iz datoteke calorimeter.csv pronasao sam calorimeter_id koji pripadaju 9. katu te na kraju pomocu datoteke zone.csv povezao to sa zonama koje promatram. Za kraj sam te iste zone usporedio s fcu_id iz datoteke fcu.csv
+Iz datoteke calorimeter.csv pronasao sam calorimeter_id (koji je isti kao measurement_group_id preko kojeg povezujemo zone) koji pripadaju 9. katu te na kraju pomocu datoteke zone.csv povezao to sa zonama koje promatram. Za kraj sam te iste zone usporedio s fcu_id iz datoteke fcu.csv.
