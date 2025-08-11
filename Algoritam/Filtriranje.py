@@ -1,3 +1,5 @@
+import pandas as pd
+
 def filtriranje(df, trajanje):
     ### uzme sve podatke kod kojih bar x minuta nije bilo promjene u brzini
     ### vraca df ['segment_id', 'start_time', 'end_time', 'duration', 'fan_speed_state']
